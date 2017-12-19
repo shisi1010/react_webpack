@@ -8,6 +8,7 @@
   },
   "author": "shisi",
   "dependencies": {
+    "jquery": "",
     "antd": "^2.13.10",
     "normalize.css": "^5.0.0",
     "react": "^15.4.2",
@@ -17,6 +18,7 @@
     "babel-core": "",
     "babel-loader": "",
     "babel-preset-env": "",
+    "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "",
     "css-loader": "",
     "file-loader": "",
