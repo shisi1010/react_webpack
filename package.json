@@ -1,0 +1,32 @@
+{
+  "name": "react_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shisi",
+  "dependencies": {
+    "antd": "^2.13.10",
+    "normalize.css": "^5.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "",
+    "babel-loader": "",
+    "babel-preset-env": "",
+    "babel-preset-react": "",
+    "css-loader": "",
+    "file-loader": "",
+    "jsx-loader": "",
+    "node-libs-browser": "",
+    "style-loader": "",
+    "stylus": "",
+    "stylus-loader": "",
+    "url-loader": "",
+    "webpack": "^3.8.1"
+  },
+  "license": "ISC"
+}
